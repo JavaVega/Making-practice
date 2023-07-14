@@ -1,9 +1,10 @@
-.extraterrestre{
+
+body{
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family:'Courier New', Courier, monospace;
     padding: 30px;
 }
-.contenedorPrincipal{
+.menu{
     width: 80%;
     max-width: 500px;
     background-color: burlywood;
