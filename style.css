@@ -1,9 +1,9 @@
-body{
-    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+.cuerpoPrincipal{
+    background-color:blue;
     font-family: sans-serif;
     padding: 20px;
 }
-.menu{
+.menus{
     width: 80%;
     max-width: 500px;
     background-color: burlywood;
